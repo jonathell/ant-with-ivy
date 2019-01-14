@@ -1,5 +1,5 @@
 language: java
-script: ant main
+script: ant run
 jdk:
 - oraclejdk8
 
